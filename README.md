@@ -247,5 +247,3 @@ If you encounter issues:
 4. Try with a different repository to isolate the issue
 
 ---
-
-Built with ❤️ using Next.js 14 and modern web technologies
